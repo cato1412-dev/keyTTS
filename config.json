@@ -39,11 +39,6 @@
             "alterId": 0,
             "email": "",
             "id": "92a490d1-101a-4c8c-b0fd-949f8f300e60"
-          },
-          {
-            "alterId": 0,
-            "email": "demo",
-            "id": "6ce21a3b-0a66-42c5-b526-29ff248f297c"
           }
         ],
         "disableInsecureEncryption": true
